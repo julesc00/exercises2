@@ -24,10 +24,12 @@ print(f.closed)
 @contextmanager
 def open_file(file, mode):
     """Function-based custom context manager."""
+    try:
 
-    f = open(file, mode)
-    yield f
-    f.close()
+        f = open(file, mode)
+        yield f
+    finally:
+        f.close()
 
 
 with open_file("sample_text.txt", "w") as f:
