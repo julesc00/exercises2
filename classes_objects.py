@@ -4,7 +4,7 @@ class PlayerCharacter:
 
     membership = True  # Class object attribute, it's static
 
-    def __init__(self, name, age):
+    def __init__(self, name, age):  # Constructor method
         if self.membership:
 
             self.name = name
