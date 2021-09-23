@@ -1,5 +1,5 @@
 """
-Ask name a print it in reverse
+Ask name and print it in reverse
 """
 
 
@@ -15,6 +15,7 @@ reversing()
 
 
 def reversing2():
+    """List reversing."""
     lst1 = ["a", "b", "c", "d"]
     rlst1 = reversed(lst1)
 
