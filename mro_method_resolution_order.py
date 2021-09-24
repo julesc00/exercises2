@@ -13,4 +13,5 @@ class C(A):
 class D(B, C):
     pass
 
+
 print(D.__mro__)
