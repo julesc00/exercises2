@@ -78,7 +78,7 @@ lista3.append("el último")
 print(lista3)
 
 nombre = "Panchito"
-print(nombre.)
+print(nombre)
 
 # Agregar un valor a una lista
 
