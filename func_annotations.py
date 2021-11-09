@@ -27,4 +27,3 @@ def solution(a: list) -> int:
 
 
 print(solution([20, 37]))
-
