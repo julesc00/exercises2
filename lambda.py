@@ -1,5 +1,8 @@
 from functools import reduce
 
+"""
+They are generally to operate inputs and return outputs. Not for actions.
+"""
 
 ma_liste = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 ta_liste = [10, 20, 30]
@@ -53,3 +56,22 @@ i = 6
 L = lambda x: x + 2
 
 print(L(i))
+
+# add example
+add = lambda x, y: x + y  # or
+print((lambda x, y: x + y)(20, 20))
+print(add(3, 5))
+
+
+# Double: x * 2
+def double(x):
+    return x * 2
+
+
+sequence = [1, 3, 5, 9]
+doubled = [double(x) for x in sequence]  # or
+doubled2 = map(double, sequence)  # If I print directly double2, it'll give a generator
+doubled3 = map(lambda x: x * 2, sequence)
+
+print(list(doubled2))
+print(list(doubled3))
