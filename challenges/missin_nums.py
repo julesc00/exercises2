@@ -24,8 +24,7 @@ print(missing_nums(li1, li2))
 def missing_nums2(nums1: list[int]) -> list[int]:
     cleaned_lst = list(set(nums1))
     range_list = range(cleaned_lst[0], cleaned_lst[-1] + 1)
-    diff_items = list(set(range_list) - set(cleaned_lst)) + list(set(cleaned_lst) - set(range_list))
-    diff_items.sort()
+    diff_items = sorted(list(set(range_list) - set(cleaned_lst)) + list(set(cleaned_lst) - set(range_list)))
 
     return diff_items
 
