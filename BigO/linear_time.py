@@ -11,3 +11,25 @@ shopping_list = ["Bread", "Butter", "The Nacho Libre soundtrack from the 2006 fi
                  "Reusable Water Bottle"]
 
 [print(item) for item in shopping_list]
+
+
+# Largest item in a list
+items = [2, 16, 7, 9, 8, 23, 12]
+
+
+def get_max_item(lst: list) -> int:
+    return max(items)
+
+
+# or
+def get_max_item2(lst: list) -> int:
+    max_item = lst[0]
+    for item in lst:
+        if item > max_item:
+            max_item = item
+    return max_item
+
+
+if __name__ == "__main__":
+    print(get_max_item(items))
+    print(get_max_item2(items))
