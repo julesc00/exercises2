@@ -25,7 +25,6 @@ print(f.closed)
 def open_file(file, mode):
     """Function-based custom context manager."""
     try:
-
         f = open(file, mode)
         yield f
     finally:

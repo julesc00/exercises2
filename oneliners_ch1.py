@@ -44,12 +44,13 @@ print(",".join(["F", "B", "I"]))
 print(len("Caricia"))
 print("ear" in "earth")
 
+
 # The Keyword None
 def f():
     x = 2
 
-print(f() is None)
 
+print(f() is None)
 
 # Container Data Structures
 # Lists
@@ -163,4 +164,3 @@ print(appreciate(200, 5))
 
 # Lambda functions
 print((lambda x: x + 3)(5))
-
