@@ -1,4 +1,4 @@
-from replit import clear
+import replit
 
 LOGO = """
 
@@ -28,5 +28,5 @@ while not bidding_finished:
         bidding_finished = True
         find_highest_amount(bids)
     elif res == "yes":
-        clear()
+        replit.clear()
 

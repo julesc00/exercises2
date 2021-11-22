@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Angela_course/bidding_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Angela_course/nesting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Angela_course/nesting_challenge.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -243,7 +240,7 @@
       <workItem from="1637280247929" duration="6052000" />
       <workItem from="1637334838475" duration="2541000" />
       <workItem from="1637435310205" duration="7513000" />
-      <workItem from="1637602925860" duration="14555000" />
+      <workItem from="1637602925860" duration="15297000" />
     </task>
     <servers />
   </component>
@@ -312,7 +309,7 @@
     <SUITE FILE_PATH="coverage/exercises2$looping.coverage" NAME="looping Coverage Results" MODIFIED="1637086416012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$type_error.coverage" NAME="type_error Coverage Results" MODIFIED="1634308792082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$big_o_examples.coverage" NAME="big_o_examples Coverage Results" MODIFIED="1637444040979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BigO" />
-    <SUITE FILE_PATH="coverage/exercises2$bidding_challenge.coverage" NAME="bidding_challenge Coverage Results" MODIFIED="1637622878243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Angela_course" />
+    <SUITE FILE_PATH="coverage/exercises2$bidding_challenge.coverage" NAME="bidding_challenge Coverage Results" MODIFIED="1637623261384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Angela_course" />
     <SUITE FILE_PATH="coverage/exercises$reduce.coverage" NAME="reduce Coverage Results" MODIFIED="1621981029477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$missin_nums.coverage" NAME="missin_nums Coverage Results" MODIFIED="1637259491313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises$angela_name_generator.coverage" NAME="angela_name_generator Coverage Results" MODIFIED="1634306247665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
