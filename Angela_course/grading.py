@@ -9,15 +9,17 @@ Constrains:
     DO NOT write any print statements.
 """
 from collections import defaultdict
-import copy
+import pprint
 
 STUDENT_SCORES = {
-    "Harry": 81,
+    "Harry": 91,
     "Ron": 78,
     "Hermione": 99,
     "Draco": 74,
     "Neville": 62
 }
+
+pp = pprint.PrettyPrinter(indent=2)
 
 
 def change_scores_to_grades(scores: dict) -> dict:
@@ -36,4 +38,4 @@ def change_scores_to_grades(scores: dict) -> dict:
     return student_grades
 
 
-print(change_scores_to_grades(STUDENT_SCORES))
+pp.pprint(change_scores_to_grades(STUDENT_SCORES))
