@@ -8,7 +8,6 @@ Constrains:
     DO NOT modify the existing student_scores dict.
     DO NOT write any print statements.
 """
-from collections import defaultdict
 import pprint
 
 STUDENT_SCORES = {
