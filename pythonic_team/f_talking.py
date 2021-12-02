@@ -22,8 +22,41 @@
 def two_ltr_word_trans(word):
     n = 2
     word_split = [word[idx:idx+n] for idx in range(0, len(word), n)]
+    trans_word_starts_w_vow = []
     trans_word = [syl + f"f{syl[-1]}" for syl in word_split]
-    return trans_word
 
-print(two_ltr_word_trans("Hola"))
 
+    return [trans_word]
+
+
+print(two_ltr_word_trans("mañana"))
+
+
+def three_ltr_word_starts_w_vowel(word):
+    vowels = "aeiou"
+    word_split = [word[0], word[1:]]
+    trans_word = [syl + f"f{syl[0]}" if syl[0] in vowels else syl + f"f{syl[-1]}" for syl in word_split]
+    print(trans_word)
+
+
+three_ltr_word_starts_w_vowel("una")
+
+
+def three_ltr_word_ends_w_consonant(word):
+    word_split = [word[:2], word[-1]]
+    trans_word = [syl if len(syl) == 2 else f"f{word_split[0][1]}" + syl for syl in word_split]
+    print(trans_word)
+
+
+three_ltr_word_ends_w_consonant("con")
+
+
+def two_ltr_syl_w_ll(word):
+    vowels = "aeiou"
+    n = 2
+    word_split = [word[idx:idx + n] for idx in range(0, len(word), n)]
+    special_syl = [syl + f"{word_split[1][0]}f{word_split[1][0]}" if vowels not in syl else syl + f"f{syl[-1]}" for syl in word_split]
+    print(special_syl)
+
+
+two_ltr_syl_w_ll("corroborar")

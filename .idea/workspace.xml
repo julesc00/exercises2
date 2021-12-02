@@ -248,7 +248,7 @@
       <workItem from="1637887510263" duration="844000" />
       <workItem from="1638289326449" duration="25000" />
       <workItem from="1638436608253" duration="11003000" />
-      <workItem from="1638465835003" duration="1111000" />
+      <workItem from="1638465835003" duration="6330000" />
     </task>
     <servers />
   </component>
@@ -303,7 +303,7 @@
     <SUITE FILE_PATH="coverage/exercises2$for_looping.coverage" NAME="for_looping Coverage Results" MODIFIED="1637087310970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$superlist.coverage" NAME="superlist Coverage Results" MODIFIED="1621977043887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$map.coverage" NAME="map Coverage Results" MODIFIED="1621980013800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exercises2$f_talking.coverage" NAME="f_talking Coverage Results" MODIFIED="1638473257011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonic_team" />
+    <SUITE FILE_PATH="coverage/exercises2$f_talking.coverage" NAME="f_talking Coverage Results" MODIFIED="1638482833780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonic_team" />
     <SUITE FILE_PATH="coverage/exercises$dunder_methods.coverage" NAME="dunder_methods Coverage Results" MODIFIED="1621975761549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$to_romans.coverage" NAME="to_romans Coverage Results" MODIFIED="1636052269455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$linear_time.coverage" NAME="linear_time Coverage Results" MODIFIED="1637438102762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BigO" />
