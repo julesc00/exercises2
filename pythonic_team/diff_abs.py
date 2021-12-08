@@ -2,8 +2,6 @@
 LIST1 = [-1, 5, 10, 20, 28, 3]
 LIST2 = [26, 134, 135, 15, 17]
 
-# get 28 y 26
-
 
 def get_smallest_diff_to_zero(lst1, lst2):
     lst1.sort()

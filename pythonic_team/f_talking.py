@@ -39,7 +39,7 @@ def three_ltr_word_starts_w_vowel(word):
     print(trans_word)
 
 
-three_ltr_word_starts_w_vowel("una")
+three_ltr_word_starts_w_vowel("uno")
 
 
 def three_ltr_word_ends_w_consonant(word):
@@ -48,7 +48,7 @@ def three_ltr_word_ends_w_consonant(word):
     print(trans_word)
 
 
-three_ltr_word_ends_w_consonant("con")
+three_ltr_word_ends_w_consonant("quien")
 
 
 def two_ltr_syl_w_ll(word):
