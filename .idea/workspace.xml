@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/codility_epam/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility_epam/smallest_positive_int_in_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility_epam/task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/codility_epam/task3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/704_binary_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/705_design_hashset.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lists_vs_arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_codility/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_codility/binary_gap.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_codility/cyclic_rotation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_codility/odd_occurrences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tupless.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angela_challenge_body_mass_index.py" beforeDir="false" afterPath="$PROJECT_DIR$/Angela_course/angela_challenge_body_mass_index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angela_challenge_datatypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Angela_course/angela_challenge_datatypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angela_list_challenge.py" beforeDir="false" afterPath="$PROJECT_DIR$/Angela_course/angela_list_challenge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/angela_name_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Angela_course/angela_name_generator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/enumarate.py" beforeDir="false" afterPath="$PROJECT_DIR$/enumarate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/odd_or_even.py" beforeDir="false" afterPath="$PROJECT_DIR$/odd_or_even.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_romans2.py" beforeDir="false" afterPath="$PROJECT_DIR$/to_romans2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/codility_epam/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility_epam/task3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -280,7 +259,7 @@
       <workItem from="1639147323929" duration="4755000" />
       <workItem from="1639327790887" duration="3111000" />
       <workItem from="1639485952637" duration="4475000" />
-      <workItem from="1639606610602" duration="5534000" />
+      <workItem from="1639606610602" duration="9222000" />
     </task>
     <servers />
   </component>
@@ -335,7 +314,7 @@
     <SUITE FILE_PATH="coverage/exercises$multi_processing2.coverage" NAME="multi_processing2 Coverage Results" MODIFIED="1631538641359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$zip.coverage" NAME="zip Coverage Results" MODIFIED="1621981026385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$functions1.coverage" NAME="functions1 Coverage Results" MODIFIED="1636075304610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exercises2$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1639612419431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
+    <SUITE FILE_PATH="coverage/exercises2$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1639615609630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
     <SUITE FILE_PATH="coverage/exercises2$two_num_sum.coverage" NAME="two_num_sum Coverage Results" MODIFIED="1637261650847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1639606625233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
     <SUITE FILE_PATH="coverage/exercises2$indexing.coverage" NAME="indexing Coverage Results" MODIFIED="1637263935242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

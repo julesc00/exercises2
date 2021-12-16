@@ -3,7 +3,7 @@ from pprint import PrettyPrinter
 import re
 from datetime import date
 
-pp = PrettyPrinter(indent=3, depth=3)
+pp = PrettyPrinter(indent=3)
 
 files = """
     779091968 23 Sep 2009 system.zip
@@ -19,26 +19,25 @@ files = """
 
 def solution(s: str):
     lines = s.split("\n")
-    lines_cleaned = []
-    finished_line = []
     final_lst = []
+    filtered_items = list()
     date_since = date(year=1990, month=1, day=31)
     months = (
         ("Jan", 1), ("Feb", 2), ("Mar", 3), ("Apr", 4), ("May", 5), ("Jun", 6),
         ("Jul", 7), ("Aug", 8), ("Sep", 9), ("Oct", 10), ("Nov", 11), ("Dec", 12)
     )
-    pre_date = ""
 
     for line in lines:
         if len(line) >= 1:
             strpd_line = re.sub(r"^\s+", "", line)
             lns_clnd2 = [f_size, day, month, year, file_name] = strpd_line.split(" ")
-            for _ in lns_clnd2:
-                size = int(lns_clnd2[0])
+            size = int(lns_clnd2[0])
+            dates = "".join([day, month, year])
+            fmt_date = datetime.datetime.strptime(dates, "%d%b%Y")
+            final_lst = [size, fmt_date, file_name]
 
-            print(lns_clnd2)
-
-    pp.pprint(lines_cleaned)
+            filtered_items.append(final_lst)
+    pp.pprint(filtered_items)
 
 
 if __name__ == "__main__":
