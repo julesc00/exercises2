@@ -28,4 +28,4 @@ def write_romans(num):
     return "".join([a for a in roman_num(num)])
 
 
-print(write_romans(35))
+print(write_romans(4))
