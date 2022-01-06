@@ -16,20 +16,21 @@ no_files = ""
 
 def solution(s: str):
     lines = s.split("\n")
-    final_lst, filtered_items = [], []
+    result = 0
     date_since = datetime.datetime(year=1990, month=1, day=31)
 
     for line in lines:
         if len(line):
             strpd_line = re.sub(r"^\s+", "", line)
-            [f_size, day, month, year, file_name] = strpd_line.split(" ")
+            sizes = re.sub(r"$\d+/\^s+", "", strpd_line)
+            print(sizes)
+            [f_size, day, month, year, _] = strpd_line.split(" ")
             dates = "".join([day, month, year])
             fmt_dates = datetime.datetime.strptime(dates, "%d%b%Y")
-            final_lst = [int(f_size), fmt_dates, file_name]
-            if final_lst[0] >= 240 * 2**10 and final_lst[1] > date_since:
-                filtered_items.append(final_lst)
+            if int(f_size) >= 240 * 2**10 and fmt_dates > date_since:
+                result += 1
 
-    return str(len(filtered_items)) if len(filtered_items) else "NO FILES"
+    return str(result) if result else "NO FILES"
 
 
 if __name__ == "__main__":

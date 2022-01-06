@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/codility_epam/task2_improved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility_epam/task3_diff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codility_epam/task3_improved.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/draw_pie_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/half_pyramid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda_big_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pass_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prefix_find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark_samples/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyspark_samples/sample1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/texting.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/codility_epam/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/codility_epam/task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/to_romans.py" beforeDir="false" afterPath="$PROJECT_DIR$/to_romans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,8 +87,8 @@
       <recent name="$PROJECT_DIR$/payments_migrations" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task3">
-    <configuration name="decorator2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.prefix_find">
+    <configuration name="draw_pie_chart" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +101,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorator2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/draw_pie_chart.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="decorators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lambda_big_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,7 +123,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/decorators.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lambda_big_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,51 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codility_epam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codility_epam/task1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/codility_epam" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codility_epam/task3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="to_romans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pass_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -178,7 +145,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/to_romans.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pass_generator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prefix_find" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prefix_find.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sample1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyspark_samples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyspark_samples/sample1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task3" />
-        <item itemvalue="Python.to_romans" />
-        <item itemvalue="Python.task1" />
-        <item itemvalue="Python.decorator2" />
-        <item itemvalue="Python.decorators" />
+        <item itemvalue="Python.prefix_find" />
+        <item itemvalue="Python.draw_pie_chart" />
+        <item itemvalue="Python.sample1" />
+        <item itemvalue="Python.lambda_big_data" />
+        <item itemvalue="Python.pass_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +283,12 @@
       <workItem from="1639485952637" duration="4475000" />
       <workItem from="1639606610602" duration="13830000" />
       <workItem from="1639625305127" duration="16908000" />
-      <workItem from="1639753929395" duration="2104000" />
+      <workItem from="1639753929395" duration="8848000" />
+      <workItem from="1640284541316" duration="264000" />
+      <workItem from="1640711679758" duration="3670000" />
+      <workItem from="1640916895054" duration="643000" />
+      <workItem from="1640917566655" duration="1204000" />
+      <workItem from="1641421283321" duration="4858000" />
     </task>
     <servers />
   </component>
@@ -305,6 +321,7 @@
     <SUITE FILE_PATH="coverage/exercises$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1623267937199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$diff_abs.coverage" NAME="diff_abs Coverage Results" MODIFIED="1638546018438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$error_handling2.coverage" NAME="error_handling2 Coverage Results" MODIFIED="1623270943744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$sample1.coverage" NAME="sample1 Coverage Results" MODIFIED="1640717188777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyspark_samples" />
     <SUITE FILE_PATH="coverage/exercises$dicts.coverage" NAME="dicts Coverage Results" MODIFIED="1634834981367" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$inheritance.coverage" NAME="inheritance Coverage Results" MODIFIED="1621972597030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1637285954122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -327,7 +344,9 @@
     <SUITE FILE_PATH="coverage/exercises$multi_processing2.coverage" NAME="multi_processing2 Coverage Results" MODIFIED="1631538641359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$zip.coverage" NAME="zip Coverage Results" MODIFIED="1621981026385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$functions1.coverage" NAME="functions1 Coverage Results" MODIFIED="1636075304610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exercises2$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1639754666516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
+    <SUITE FILE_PATH="coverage/exercises2$task3_improved.coverage" NAME="task3_improved Coverage Results" MODIFIED="1639767830165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
+    <SUITE FILE_PATH="coverage/exercises2$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1639758740841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
+    <SUITE FILE_PATH="coverage/exercises2$lambda_big_data.coverage" NAME="lambda_big_data Coverage Results" MODIFIED="1640714830152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$two_num_sum.coverage" NAME="two_num_sum Coverage Results" MODIFIED="1637261650847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1639672747292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
     <SUITE FILE_PATH="coverage/exercises2$indexing.coverage" NAME="indexing Coverage Results" MODIFIED="1637263935242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -358,12 +377,14 @@
     <SUITE FILE_PATH="coverage/exercises$algorithms1.coverage" NAME="algorithms1 Coverage Results" MODIFIED="1636083930173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$map.coverage" NAME="map Coverage Results" MODIFIED="1621980013800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$bidding_challenge.coverage" NAME="bidding_challenge Coverage Results" MODIFIED="1637624153562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Angela_course" />
+    <SUITE FILE_PATH="coverage/exercises2$half_pyramid.coverage" NAME="half_pyramid Coverage Results" MODIFIED="1640284768499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$big_o_examples.coverage" NAME="big_o_examples Coverage Results" MODIFIED="1637444040979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BigO" />
     <SUITE FILE_PATH="coverage/exercises$oneliners_ch1.coverage" NAME="oneliners_ch1 Coverage Results" MODIFIED="1631065088072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$looping.coverage" NAME="looping Coverage Results" MODIFIED="1637086416012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$string_reversing.coverage" NAME="string_reversing Coverage Results" MODIFIED="1632413344477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$unpacking_args.coverage" NAME="unpacking_args Coverage Results" MODIFIED="1637081775278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$to_romans2.coverage" NAME="to_romans2 Coverage Results" MODIFIED="1636108554100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$prefix_find.coverage" NAME="prefix_find Coverage Results" MODIFIED="1641429173989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$f_talking.coverage" NAME="f_talking Coverage Results" MODIFIED="1638557051416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonic_team" />
     <SUITE FILE_PATH="coverage/exercises2$to_romans2.coverage" NAME="to_romans2 Coverage Results" MODIFIED="1639340684670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$smallest_diff_lucero.coverage" NAME="smallest_diff_lucero Coverage Results" MODIFIED="1637780246585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonic_team" />
@@ -374,15 +395,18 @@
     <SUITE FILE_PATH="coverage/exercises2$linear_time.coverage" NAME="linear_time Coverage Results" MODIFIED="1637438102762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BigO" />
     <SUITE FILE_PATH="coverage/exercises2$find_n_in_list.coverage" NAME="find_n_in_list Coverage Results" MODIFIED="1637436328656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises2$dict_comprehension.coverage" NAME="dict_comprehension Coverage Results" MODIFIED="1638879851650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$draw_pie_chart.coverage" NAME="draw_pie_chart Coverage Results" MODIFIED="1640917179273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$704_binary_search.coverage" NAME="704_binary_search Coverage Results" MODIFIED="1639142970263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/exercises$setattr.coverage" NAME="setattr Coverage Results" MODIFIED="1624976146003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$functions3.coverage" NAME="functions3 Coverage Results" MODIFIED="1637285106691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$list_sorted.coverage" NAME="list_sorted Coverage Results" MODIFIED="1635441992979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$task3_diff.coverage" NAME="task3_diff Coverage Results" MODIFIED="1639768639288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
     <SUITE FILE_PATH="coverage/exercises$func_annotations.coverage" NAME="func_annotations Coverage Results" MODIFIED="1636211296890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$non_constructible_change.coverage" NAME="non_constructible_change Coverage Results" MODIFIED="1637336761502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises$primitives.coverage" NAME="primitives Coverage Results" MODIFIED="1634307189628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$tupless.coverage" NAME="tupless Coverage Results" MODIFIED="1639009929535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$multithreading.coverage" NAME="multithreading Coverage Results" MODIFIED="1631463824311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$task2_improved.coverage" NAME="task2_improved Coverage Results" MODIFIED="1639767282672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
     <SUITE FILE_PATH="coverage/exercises2$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1639487911849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$lists_vs_arrays.coverage" NAME="lists_vs_arrays Coverage Results" MODIFIED="1639487739984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$error_handling.coverage" NAME="error_handling Coverage Results" MODIFIED="1623270032805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -391,6 +415,7 @@
     <SUITE FILE_PATH="coverage/exercises2$nesting_challenge.coverage" NAME="nesting_challenge Coverage Results" MODIFIED="1637613511323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Angela_course" />
     <SUITE FILE_PATH="coverage/exercises$hasattr.coverage" NAME="hasattr Coverage Results" MODIFIED="1632415931145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$superlist.coverage" NAME="superlist Coverage Results" MODIFIED="1621977043887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$pass_generator.coverage" NAME="pass_generator Coverage Results" MODIFIED="1640712004920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$superr.coverage" NAME="superr Coverage Results" MODIFIED="1621974167441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$odd_occurrences.coverage" NAME="odd_occurrences Coverage Results" MODIFIED="1639329498296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_codility" />
     <SUITE FILE_PATH="coverage/exercises$multithreading_real1.coverage" NAME="multithreading_real1 Coverage Results" MODIFIED="1631465748785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
