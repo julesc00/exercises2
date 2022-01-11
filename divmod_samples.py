@@ -1,0 +1,5 @@
+print(f"divmod(8, 3) = {divmod(8, 3)}")
+print(f"divmod(3, 8) = {divmod(3, 8)}")
+print(f"divmod(5, 5) = {divmod(5, 5)}")
+print(f"divmod(10, 3) = {divmod(10, 3)}")
+print(f"divmod(20, 5) = {divmod(20, 5)}")
