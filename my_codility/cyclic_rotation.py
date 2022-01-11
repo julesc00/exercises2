@@ -38,17 +38,52 @@ In your solution, focus on correctness. The performance of your solution will no
 
 Note: I only get 89% correct and test for empty values does not pass.
 """
+import random
+
+import pytest
+
+ARRAY_RANGE = (-1000, 1000)
+INT_RANGE = (0, 100)
 
 
-def cyclic_rotation(my_list: list, k: int) -> list:
-    lst = my_list[:]
-    if len(lst):
-        for _ in range(k):
-            popped = lst.pop()
-            lst.insert(0, popped)
-        return lst
-    elif not len(lst) or not k:
+def cyclic_rotation(a: list, k: int) -> list:
+    """
+    Rotate the array 'a' by 'k' times step
+    :param a: an array of integers
+    :param k: number of times to shift right
+    :return: the rotated array
+    """
+    lst = a[:]
+
+    if not len(lst):
         return []
 
+    for _ in range(k):
+        popped = lst.pop()
+        lst.insert(0, popped)
+    return lst
 
-print(cyclic_rotation([], 0))
+
+class TestCyclicRotation:
+
+    def test_zero(self):
+        assert cyclic_rotation([6, 3, 8, 9, 7], 0) == [6, 3, 8, 9, 7]
+
+    def test_one(self):
+        assert cyclic_rotation([6, 3, 8, 9, 7], 1) == [7, 6, 3, 8, 9]
+
+    def test_example1(self):
+        assert cyclic_rotation([3, 8, 9, 7, 6], 3) == [9, 7, 6, 3, 8]
+
+    def test_full(self):
+        assert cyclic_rotation([6, 3, 8, 9, 7], 5) == [6, 3, 8, 9, 7]
+
+    def test_empty(self):
+        assert cyclic_rotation([], 5) == []
+
+    def test_random(self):
+        n = random.randint(*INT_RANGE)
+        k = random.randint(*INT_RANGE)
+        a = [random.randint(*INT_RANGE) for _ in range(0, n)]
+        print(n, k, a)
+        print(cyclic_rotation(a, k))
