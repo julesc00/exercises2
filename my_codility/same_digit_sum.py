@@ -16,13 +16,11 @@ each element of array A is an integer within the range [1..1,000,000,000].
 import collections
 
 
-def solution(a):
+def solution(A):
     additions, gst_addition = collections.defaultdict(list), 0
-    for i in a:
+    for i in A:
         sum_of_nums = sum(int(num) for num in str(i))
         additions[sum_of_nums].append(i)
-    print(additions)
-
     for item in additions.values():
         if len(item) > 1:
             ordered_add = sorted(item)

@@ -28,7 +28,7 @@ def solution(A, K):
     count = 0
     for i in range(n-K-1):
         if A[i] == A[i+1]:
-            count += 1
+            count = count + 1
         else:
             count = 0
         best = max(best, count)
