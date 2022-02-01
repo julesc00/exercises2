@@ -17,21 +17,23 @@ import collections
 
 
 def solution(A):
-    additions, gst_addition = collections.defaultdict(list), 0
+    sums, max_sum = collections.defaultdict(list), 0
     for i in A:
-        sum_of_nums = sum(int(num) for num in str(i))
-        additions[sum_of_nums].append(i)
-    for item in additions.values():
+        sum_of_digits = sum(int(num) for num in str(i))
+        sums[sum_of_digits].append(i)
+    for item in sums.values():
         if len(item) > 1:
-            ordered_add = sorted(item)
-            add_two_nums = ordered_add[len(ordered_add) - 2] + ordered_add[len(ordered_add) - 1]
-            gst_addition = add_two_nums if add_two_nums > gst_addition else gst_addition
+            ordered_sum = sorted(item)
+            print(ordered_sum)
+            print(f"Sum: {sum(max(ordered_sum, ordered_sum))}")
+            add_two_nums = ordered_sum[len(ordered_sum) - 2] + ordered_sum[len(ordered_sum) - 1]
+            max_sum = add_two_nums if add_two_nums > max_sum else max_sum
 
-        return gst_addition if gst_addition > 0 else -1
+        return max_sum if max_sum > 0 else -1
 
 
 if __name__ == "__main__":
     arr1 = [51, 71, 17, 42]
     arr2 = [42, 33, 60]
     arr3 = [51, 32, 43]
-    print(solution(arr3))
+    print(solution(arr2))

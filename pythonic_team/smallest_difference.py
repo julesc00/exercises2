@@ -4,7 +4,7 @@ Sample solution: [28, 26]
 """
 import heapq
 from heapq import nsmallest, heappop
-import itertools
+import itertools_practice
 
 LIST1 = [-1, 5, 10, 20, 28, 3]
 LIST2 = [26, 134, 135, 15, 17]

@@ -1,5 +1,5 @@
 
-from itertools import tee, islice, chain, zip_longest
+from itertools_practice import tee, islice, chain, zip_longest
 
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVXWYZ"
 

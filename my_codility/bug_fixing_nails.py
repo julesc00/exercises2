@@ -32,8 +32,10 @@ def solution(A, K):
         else:
             count = 0
         best = max(best, count)
+    print(f"Count: {count}")
+    print(f"Best: {best}")
     # result = best + 1 + K
-    result = (best + 1 + K) if (K < n) else n
+    result = best + 1 + K if K < n else n
     return result
 
 

@@ -1,4 +1,4 @@
-import itertools
+import itertools_practice
 
 """
 Write a function that takes in a non-empty list of distinct integers, and an integer representing a target

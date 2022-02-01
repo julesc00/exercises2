@@ -42,15 +42,13 @@ def solution(N, S, T):
             cleaned_ships.append(ship.split(" "))
 
     # Battle status
+    print(f"Cleaned ships: {cleaned_ships}")
     exact_hit_match = []
-    for ship in cleaned_ships:
-        for hit in hits:
-            if hit in ship and len(hit) < len(ship):
-                hit_ships += 1
-            elif hit in ship:
-                exact_hit_match.append(hit)
-                if exact_hit_match == ship:
-                    sunken_ships += 1
+    print(f"Hits: {hits}")
+    for idx, ship in enumerate(cleaned_ships):
+        if hits == ship[idx] and len(ship[idx]) == hits:
+            sunken_ships += 1
+        elif hits in ship[idx] and 
 
     return f"{sunken_ships},{hit_ships}"
 
