@@ -1,3 +1,15 @@
+"""
+Polymorphism defines the ability to take different forms. Polymorphism in Python allows us to define methods in
+the child class with the same name as defined in their parent class. In this article, we will get into the
+details of Polymorphism in Python in the following sequence:
+
+Polymorphism in Python
+A child class inherits all the methods from the parent class. However, in some situations, the method
+inherited from the parent class doesn’t quite fit into the child class. In such cases, you will have
+to re-implement method in the child class.
+
+"""
+
 
 class User:
 

@@ -1,4 +1,4 @@
-import pandas as pd
+import pandas_exercises as pd
 import numpy as np
 
 my_list = list("abcdefghijklmnopqrstuvwxyz")
