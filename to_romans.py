@@ -17,15 +17,15 @@ def write_romans(num):
     roman[4] = "IV"
     roman[1] = "I"
 
-    def roman_num(num):
+    def roman_num(num2):
         for r in roman.keys():
-            x, y = divmod(num, r)
+            x, y = divmod(num2, r)
             yield roman[r] * x
-            num -= (r * x)
-            if num <= 0:
+            num2 -= (r * x)
+            if num2 <= 0:
                 break
 
     return "".join([a for a in roman_num(num)])
 
 
-print(write_romans(4))
+print(write_romans(44))
