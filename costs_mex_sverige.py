@@ -33,6 +33,7 @@ def lodging_costs() -> dict:
 
 
 def total_vacation_trip_to_sweden() -> str:
+    # Still needs some type-error and out-of-range-error validation
     print("---TRIP TO STOCKHOLM SWEDEN, PARTING FROM CDMX---")
     lodging_cost = lodging_costs()
     print("Lodging Options:")
