@@ -48,5 +48,4 @@ country["Japan"].append("Hiroshima")
 
 for x, y in country.items():
     cities = f"Cities in {x}: {', '.join(y)}."
-
     print(cities)
