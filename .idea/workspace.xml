@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/django_bad_words_validation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/app/logs.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/app/script.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/docker-compose-challenge-kwan.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/docker-compose-sample.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/docker-compose-sample2.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker_related/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oneliners/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oneliners/arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oneliners/max_after_tax_income.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temp_crap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boto3_practice/event_bridge1.py" beforeDir="false" afterPath="$PROJECT_DIR$/boto3_practice/event_bridge1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oneliners/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -354,7 +340,7 @@
       <workItem from="1656109537585" duration="1005000" />
       <workItem from="1656110638366" duration="520000" />
       <workItem from="1656116941732" duration="1640000" />
-      <workItem from="1656162623838" duration="3259000" />
+      <workItem from="1656162623838" duration="4312000" />
     </task>
     <servers />
   </component>
@@ -548,7 +534,7 @@
     <SUITE FILE_PATH="coverage/exercises2$destructure_variables.coverage" NAME="destructure_variables Coverage Results" MODIFIED="1637085662521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$prefix_find.coverage" NAME="prefix_find Coverage Results" MODIFIED="1641569052652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$3_2_find_missing_element.coverage" NAME="3_2_find_missing_element Coverage Results" MODIFIED="1641918871823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_codility" />
-    <SUITE FILE_PATH="coverage/exercises2$max_after_tax_income.coverage" NAME="max_after_tax_income Coverage Results" MODIFIED="1656165812264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oneliners" />
+    <SUITE FILE_PATH="coverage/exercises2$max_after_tax_income.coverage" NAME="max_after_tax_income Coverage Results" MODIFIED="1656166596596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/oneliners" />
     <SUITE FILE_PATH="coverage/exercises2$polynomial_time.coverage" NAME="polynomial_time Coverage Results" MODIFIED="1637442197107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BigO" />
     <SUITE FILE_PATH="coverage/exercises2$coins_change.coverage" NAME="coins_change Coverage Results" MODIFIED="1637335972418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises$math_operators.coverage" NAME="math_operators Coverage Results" MODIFIED="1633891075827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

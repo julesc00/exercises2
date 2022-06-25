@@ -1,0 +1,1 @@
+# Exercises based on book Python One-liners by Christian Mayer
