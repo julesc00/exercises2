@@ -11,7 +11,7 @@ def lambda_handler(event, context):
             {
                 "source": "Producer",
                 "DetailType": "Lambda function producer",
-                "Detai": json.dumps({
+                "Detail": json.dumps({
                     "Key": "Value"
                 }),
             },
