@@ -1,4 +1,6 @@
 # Exercises based on book Python One-liners by Christian Mayer
+
+## Data Types in Numpy
 `bool` The Boolean data type in Python (1 byte)  
 `int` The integer data type in Python (default size: 4 or 8 bytes)  
 `float` The float data type in Python (default size: 8 bytes)  
