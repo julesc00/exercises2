@@ -1,3 +1,4 @@
+import this
 
 NAME = "Julito"
 
@@ -27,3 +28,4 @@ print(f"Hi {username.title()}. Uppercase: {username.upper()}")
 
 # Loops
 print(f"Square: { [x ** 2 for x in range(5)]}")
+print(this)
