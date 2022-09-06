@@ -16,3 +16,6 @@ useful feature as it allows for the:
         manner.
 """
 
+a = 1
+a = "uno"
+print(a)

@@ -1,0 +1,192 @@
+{
+  "type": "object",
+  "required": [
+    "retailPreference",
+    "leasePreference"
+  ],
+  "properties": {
+    "retailPreference": {
+      "type": "object",
+      "title": "Retail",
+      "$ref": "#/definitions/retailProperties"
+    },
+    "leasePreference": {
+      "type": "object",
+      "title": "Lease",
+      "$ref": "#/definitions/leaseProperties"
+    }
+  },
+  "definitions": {
+    "leaseProperties": {
+      "type": "object",
+      "required": [
+        "flatTaxAmount",
+        "tradeTaxCredit"
+      ],
+      "properties": {
+        "tradeTaxCredit": {
+          "title": "Trade Tax Credit",
+          "type": "string",
+          "uniqueItems": true,
+          "enum": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "enumNames": [
+            "Allowance",
+            "No Credit",
+            "Payoff",
+            "Lesser of Payoff and Allowance",
+            "Customer Trade Equity",
+            "Custom"
+          ]
+        },
+        "leaseExcludeLeasedTrades": {
+          "title": "Exclude Leased Trades for Lease",
+          "type": "boolean",
+          "default": false
+        },
+        "leaseExcludeOutOfStateTrades": {
+          "title": "Exclude Out of State Trades for Lease",
+          "type": "boolean",
+          "default": false
+        },
+        "leaseExcludeTradesRegisteredToOtherPeople": {
+          "title": "Exclude Trades Registered to Other People for Lease",
+          "type": "boolean",
+          "default": false
+        },
+        "leaseRequiredTradeVehicleTypes": {
+          "type": "array",
+          "title": "Required Trade Vehicle Types for Lease",
+          "items": {
+            "type": "string",
+            "enum": [
+              "SUV",
+              "Car",
+              "Pickup"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "leaseRestrictedTradeVehicleTypes": {
+          "type": "array",
+          "title": "Restricted Trade Vehicle Types for Lease",
+          "items": {
+            "type": "string",
+            "enum": [
+              "SUV",
+              "Car",
+              "Pickup"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "flatTaxAmount": {
+          "title": "Flat Tax Amount",
+          "type": "number",
+          "default": 0,
+          "format": "currency"
+        },
+        "tradeCredit": {
+          "title": "Trade Credit Amount",
+          "type": "number",
+          "default": 0,
+          "format": "currency"
+        },
+        "capitilizedLeaseTaxes": {
+          "type": "boolean",
+          "title": "Capitilized Lease Taxes",
+          "default": true
+        }
+      }
+    },
+    "retailProperties": {
+      "type": "object",
+      "required": [
+        "flatTaxAmount",
+        "tradeTaxCredit"
+      ],
+      "properties": {
+        "tradeTaxCredit": {
+          "title": "Trade Tax Credit",
+          "type": "string",
+          "uniqueItems": true,
+          "enum": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "enumNames": [
+            "Allowance",
+            "No Credit",
+            "Payoff",
+            "Lesser of Payoff and Allowance",
+            "Customer Trade Equity",
+            "Custom"
+          ]
+        },
+        "retailExcludeLeasedTrades": {
+          "title": "Exclude Leased Trades for Retail",
+          "type": "boolean",
+          "default": false
+        },
+        "retailExcludeOutOfStateTrades": {
+          "title": "Exclude Out of State Trades for Retail",
+          "type": "boolean",
+          "default": false
+        },
+        "retailExcludeTradesRegisteredToOtherPeople": {
+          "title": "Exclude Trades Registered to Other People for Retail",
+          "type": "boolean",
+          "default": false
+        },
+        "retailRequiredTradeVehicleTypes": {
+          "type": "array",
+          "title": "Required Trade Vehicle Types for Retail",
+          "items": {
+            "type": "string",
+            "enum": [
+              "SUV",
+              "Car",
+              "Pickup"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "retailRestrictedTradeVehicleTypes": {
+          "type": "array",
+          "title": "Restricted Trade Vehicle Types for Retail",
+          "items": {
+            "type": "string",
+            "enum": [
+              "SUV",
+              "Car",
+              "Pickup"
+            ]
+          },
+          "uniqueItems": true
+        },
+        "flatTaxAmount": {
+          "title": "Flat Tax Amount",
+          "type": "number",
+          "default": 0,
+          "format": "currency"
+        },
+        "tradeCredit": {
+          "title": "Trade Credit Amount",
+          "type": "number",
+          "default": 0,
+          "format": "currency"
+        }
+      }
+    }
+  }
+}

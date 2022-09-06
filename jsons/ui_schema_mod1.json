@@ -1,0 +1,40 @@
+{
+        "leaseAndRetailPreference": {
+          "retailPreference": {
+            "tradeCredit": {
+              "validations": {
+                "decimal": 2,
+                "negative": false,
+                "requiredOn": [
+                  "tradeTaxCredit",
+                  "6"
+                ]
+              }
+            },
+            "retailRequiredTradeVehicleTypes": {
+              "ui:widget": "checkboxes"
+            },
+            "retailRestrictedTradeVehicleTypes": {
+              "ui:widget": "checkboxes"
+            }
+          },
+          "leasePreference": {
+            "tradeCredit": {
+              "validations": {
+                "decimal": 2,
+                "negative": false,
+                "requiredOn": [
+                  "tradeTaxCredit",
+                  "6"
+                ]
+              }
+            },
+            "leaseRequiredTradeVehicleTypes": {
+              "ui:widget": "checkboxes"
+            },
+            "leaseRestrictedTradeVehicleTypes": {
+              "ui:widget": "checkboxes"
+            }
+          }
+        }
+      }
