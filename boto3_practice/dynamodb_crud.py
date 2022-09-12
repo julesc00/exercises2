@@ -1,18 +1,20 @@
 import boto3
 
 dynamodb = boto3.resource("dynamodb")
-table = dynamodb.Table("users")
+table = dynamodb.Table("hot_update_parameters")
 print(table.creation_date_time)
 
 
 def create_item():
     table.put_item(
         Item={
-            "username": "julito",
-            "first_name": "Julio",
-            "last_name": "Briones Huerta",
-            "age": 25,
-            "account_type": "standard_user"
+            "current": "0",
+            "accepted_update_version_index": 0,
+            "backup_in_progress_index": 0,
+            "cancel_deployment_index": "False",
+            "deploy_in_progress_index": 0,
+            "refresh_in_progress_index": 0,
+            "restore_in_progress_index": 0
         }
     )
 

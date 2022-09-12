@@ -5,29 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asyncio_usage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncio_usage/sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncio_usage/threadmem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/class_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/client_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/create_table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/dynamodb_crud.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/dynamodb_lambda_add_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/dynamodb_lambda_get_items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/lambda_dynamodb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boto3_practice/resource_example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functools_practice/cached_property_7.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functools_practice/partialmethod_4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functools_practice/singledispatchmethod_6.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functools_practice/singledispath_5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functools_practice/total_ordering_8.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsons/main_mod1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsons/ui_schema_mod1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mastering_python/assignment_expressions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mastering_python/ch3/structural_pattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stuff/nothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boto3_practice/lambda_to_dynamodb2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functools_practice/partial_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/partial_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boto3_practice/dynamodb_crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/boto3_practice/dynamodb_crud.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functools_practice/cmp_to_key_11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/cmp_to_key_11.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functools_practice/total_ordering_8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/total_ordering_8.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functools_practice/update_wrapper_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/update_wrapper_9.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functools_practice/wraps_10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/wraps_10.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -386,6 +370,10 @@
       <workItem from="1661899829487" duration="4590000" />
       <workItem from="1661909373553" duration="3220000" />
       <workItem from="1662057474621" duration="384000" />
+      <workItem from="1662456264537" duration="1143000" />
+      <workItem from="1662574674004" duration="1744000" />
+      <workItem from="1662653265679" duration="1299000" />
+      <workItem from="1662939486319" duration="1767000" />
     </task>
     <servers />
   </component>
