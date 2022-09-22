@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/boto3_practice/lambda_to_dynamodb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repeated_num.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boto3_practice/dynamodb_crud.py" beforeDir="false" afterPath="$PROJECT_DIR$/boto3_practice/dynamodb_crud.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functools_practice/cmp_to_key_11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/cmp_to_key_11.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functools_practice/total_ordering_8.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/total_ordering_8.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functools_practice/update_wrapper_9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/update_wrapper_9.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/functools_practice/wraps_10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/functools_practice/wraps_10.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/challenges_100_proven/Part1/ch2_math_problems/2_2_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/challenges_100_proven/Part1/ch2_math_problems/2_2_exercises.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +90,7 @@
       <recent name="$PROJECT_DIR$/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.class_practice">
+  <component name="RunManager" selected="Python.repeated_num">
     <configuration name="class_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reduce_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="repeated_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functools_practice" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functools_practice/reduce_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repeated_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.repeated_num" />
         <item itemvalue="Python.class_practice" />
         <item itemvalue="Python.threadmem" />
         <item itemvalue="Python.nothing" />
         <item itemvalue="Python.partial_3" />
-        <item itemvalue="Python.reduce_1" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +369,10 @@
       <workItem from="1662456264537" duration="1143000" />
       <workItem from="1662574674004" duration="1744000" />
       <workItem from="1662653265679" duration="1299000" />
-      <workItem from="1662939486319" duration="1767000" />
+      <workItem from="1662939486319" duration="2955000" />
+      <workItem from="1663082719446" duration="652000" />
+      <workItem from="1663665447639" duration="380000" />
+      <workItem from="1663865276571" duration="3821000" />
     </task>
     <servers />
   </component>
@@ -486,6 +485,7 @@
     <SUITE FILE_PATH="coverage/exercises2$non_constructible_change.coverage" NAME="non_constructible_change Coverage Results" MODIFIED="1637336761502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises2$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1639487812277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$even_odd_counter.coverage" NAME="even_odd_counter Coverage Results" MODIFIED="1644342077741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$repeated_num.coverage" NAME="repeated_num Coverage Results" MODIFIED="1663869069124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$coins_change.coverage" NAME="coins_change Coverage Results" MODIFIED="1637335972418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises$single_threading1.coverage" NAME="single_threading1 Coverage Results" MODIFIED="1631537263052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$oneliners_ch1.coverage" NAME="oneliners_ch1 Coverage Results" MODIFIED="1631065088072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
