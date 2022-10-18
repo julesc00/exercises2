@@ -14,3 +14,13 @@ def check_odd(item):
 my_list2 = (list(map(multiply_by_2, ma_liste)))
 print(list(zip(ma_liste, ta_liste)))
 
+
+def indexing_items():
+    """Using zip"""
+    nums = [1, 2, 3]
+    items = ["sugar", "spice", "everything nice"]
+    for item in zip(nums, items):
+        print(item)
+
+
+indexing_items()

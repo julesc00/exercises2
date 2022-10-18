@@ -1,4 +1,5 @@
 import datetime
+import pathlib
 
 """
 Checking whether a variable is a type of.
@@ -38,8 +39,6 @@ print()
 my_range = range(5)
 print([(i, item) for i, item in enumerate(my_range)])
 
-
-import pathlib
 
 # Avoid backslashes
 with open("/path/to/some/file/you/want/to/read") as file_1, \

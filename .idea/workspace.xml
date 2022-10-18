@@ -5,9 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/repeated_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/higher_order_functions_functools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastering_python/ch3/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mastering_python/ch3/using_mccabe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/memory_management_reference_counting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mro_method_resolution_order2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mro_method_resolution_order3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mro_method_resolution_order4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/challenges_100_proven/Part1/ch2_math_problems/2_2_exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/challenges_100_proven/Part1/ch2_math_problems/2_2_exercises.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/decorators3.py" beforeDir="false" afterPath="$PROJECT_DIR$/decorators3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mastering_python/ch3/ductyping.py" beforeDir="false" afterPath="$PROJECT_DIR$/mastering_python/ch3/ductyping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multiprocessing_example.py" beforeDir="false" afterPath="$PROJECT_DIR$/multiprocessing_example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multithreading_real1.py" beforeDir="false" afterPath="$PROJECT_DIR$/multithreading_real1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1493976040374-85c8e12f0c0e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1493976040374-85c8e12f0c0e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1504198453319-5ce911bafcde.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1504198453319-5ce911bafcde.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1507143550189-fed454f93097.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1507143550189-fed454f93097.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1513938709626-033611b8cc03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1513938709626-033611b8cc03.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1516117172878-fd2c41f4a759.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1516117172878-fd2c41f4a759.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1516972810927-80185027ca84.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1516972810927-80185027ca84.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1522364723953-452d3431c267.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1522364723953-452d3431c267.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1524429656589-6633a470097c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1524429656589-6633a470097c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1530122037265-a5f1f91d3b99.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1530122037265-a5f1f91d3b99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1530224264768-7ff8c1789d79.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1530224264768-7ff8c1789d79.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1532009324734-20a7a5813719.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1541698444083-023c97d3f4b6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1541698444083-023c97d3f4b6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1549692520-acc6669e2f0c.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1549692520-acc6669e2f0c.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1550439062-609e1531270e.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1550439062-609e1531270e.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/processed/photo-1564135624576-c5c88640f235.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/processed/photo-1564135624576-c5c88640f235.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/zip.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +95,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/julio_briones/Documents/Dev/Python/Core/longer/exercises2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -90,74 +116,8 @@
       <recent name="$PROJECT_DIR$/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.repeated_num">
-    <configuration name="class_practice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/boto3_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/boto3_practice/class_practice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="nothing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/stuff" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stuff/nothing.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="partial_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exercises" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functools_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functools_practice/partial_3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="repeated_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.namespaces">
+    <configuration name="multi_threading2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,7 +130,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repeated_num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multi_threading2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -179,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="threadmem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="multiprocessing_example" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,12 +147,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/asyncio_usage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/asyncio_usage/threadmem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multiprocessing_example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multithreading_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multithreading_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="multithreading_real1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/multithreading_real1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="namespaces" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exercises" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mastering_python/ch3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mastering_python/ch3/namespaces.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,11 +229,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.repeated_num" />
-        <item itemvalue="Python.class_practice" />
-        <item itemvalue="Python.threadmem" />
-        <item itemvalue="Python.nothing" />
-        <item itemvalue="Python.partial_3" />
+        <item itemvalue="Python.namespaces" />
+        <item itemvalue="Python.multiprocessing_example" />
+        <item itemvalue="Python.multithreading_real1" />
+        <item itemvalue="Python.multithreading_demo" />
+        <item itemvalue="Python.multi_threading2" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +398,10 @@
       <workItem from="1662939486319" duration="2955000" />
       <workItem from="1663082719446" duration="652000" />
       <workItem from="1663665447639" duration="380000" />
-      <workItem from="1663865276571" duration="3821000" />
+      <workItem from="1663865276571" duration="4283000" />
+      <workItem from="1663938720239" duration="1212000" />
+      <workItem from="1665166732255" duration="16581000" />
+      <workItem from="1665958326797" duration="3606000" />
     </task>
     <servers />
   </component>
@@ -403,6 +432,7 @@
     <SUITE FILE_PATH="coverage/exercises$reduce.coverage" NAME="reduce Coverage Results" MODIFIED="1621981029477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$.coverage" NAME=" Coverage Results" MODIFIED="1641918335475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_codility" />
     <SUITE FILE_PATH="coverage/exercises$zip.coverage" NAME="zip Coverage Results" MODIFIED="1621981026385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$zip.coverage" NAME="zip Coverage Results" MODIFIED="1665359229542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$9_palindrome_number.coverage" NAME="9_palindrome_number Coverage Results" MODIFIED="1647708869662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode/easy" />
     <SUITE FILE_PATH="coverage/exercises2$json_to_dict.coverage" NAME="json_to_dict Coverage Results" MODIFIED="1650598100916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$walrus_operator.coverage" NAME="walrus_operator Coverage Results" MODIFIED="1648496759209" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -411,6 +441,7 @@
     <SUITE FILE_PATH="coverage/exercises2$lists_vs_arrays.coverage" NAME="lists_vs_arrays Coverage Results" MODIFIED="1639487739984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$4_1_missing_integer.coverage" NAME="4_1_missing_integer Coverage Results" MODIFIED="1642004349746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_codility" />
     <SUITE FILE_PATH="coverage/exercises$decorators.coverage" NAME="decorators Coverage Results" MODIFIED="1623265077038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$multithreading_real1.coverage" NAME="multithreading_real1 Coverage Results" MODIFIED="1665442171011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$threadmem.coverage" NAME="threadmem Coverage Results" MODIFIED="1660992979134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/asyncio_usage" />
     <SUITE FILE_PATH="coverage/exercises2$importing_modules1.coverage" NAME="importing_modules1 Coverage Results" MODIFIED="1653132562248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pcap_training" />
     <SUITE FILE_PATH="coverage/exercises$decorator2.coverage" NAME="decorator2 Coverage Results" MODIFIED="1623267883750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -419,8 +450,10 @@
     <SUITE FILE_PATH="coverage/exercises2$two_num_sum.coverage" NAME="two_num_sum Coverage Results" MODIFIED="1637261650847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$print_123_n.coverage" NAME="print_123_n Coverage Results" MODIFIED="1648815741325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hakerrank" />
     <SUITE FILE_PATH="coverage/exercises2$looping.coverage" NAME="looping Coverage Results" MODIFIED="1637086416012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$memory_management_reference_counting.coverage" NAME="memory_management_reference_counting Coverage Results" MODIFIED="1665436502970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$odd_or_even.coverage" NAME="odd_or_even Coverage Results" MODIFIED="1639328151287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$listings__1_.coverage" NAME="listings (1) Coverage Results" MODIFIED="1643802954507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pandas_exercises" />
+    <SUITE FILE_PATH="coverage/exercises2$multiprocessing_example.coverage" NAME="multiprocessing_example Coverage Results" MODIFIED="1665442789769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$flat_better_than_nested.coverage" NAME="flat_better_than_nested Coverage Results" MODIFIED="1658268526452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mastering_python" />
     <SUITE FILE_PATH="coverage/exercises$superlist.coverage" NAME="superlist Coverage Results" MODIFIED="1621977043887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$password_checker.coverage" NAME="password_checker Coverage Results" MODIFIED="1654103766375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -432,9 +465,11 @@
     <SUITE FILE_PATH="coverage/exercises$superr.coverage" NAME="superr Coverage Results" MODIFIED="1621974167441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$704_binary_search.coverage" NAME="704_binary_search Coverage Results" MODIFIED="1639142970263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leetcode" />
     <SUITE FILE_PATH="coverage/exercises2$smallest_diff_lucero.coverage" NAME="smallest_diff_lucero Coverage Results" MODIFIED="1637780246585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonic_team" />
+    <SUITE FILE_PATH="coverage/exercises2$higher_order_functions_functools.coverage" NAME="higher_order_functions_functools Coverage Results" MODIFIED="1665432860996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$func_annotations.coverage" NAME="func_annotations Coverage Results" MODIFIED="1636211296890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$generators.coverage" NAME="generators Coverage Results" MODIFIED="1632415732192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$list_sorted.coverage" NAME="list_sorted Coverage Results" MODIFIED="1635441992979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$mro_method_resolution_order2.coverage" NAME="mro_method_resolution_order2 Coverage Results" MODIFIED="1663939155410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$bug_fixing_nails.coverage" NAME="bug_fixing_nails Coverage Results" MODIFIED="1642702230364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/my_codility" />
     <SUITE FILE_PATH="coverage/exercises2$prefix_find.coverage" NAME="prefix_find Coverage Results" MODIFIED="1641569052652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$algorithms1.coverage" NAME="algorithms1 Coverage Results" MODIFIED="1636083930173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -465,8 +500,10 @@
     <SUITE FILE_PATH="coverage/exercises$pure_functions.coverage" NAME="pure_functions Coverage Results" MODIFIED="1621978907557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$nesting_challenge.coverage" NAME="nesting_challenge Coverage Results" MODIFIED="1637613511323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Angela_course" />
     <SUITE FILE_PATH="coverage/exercises2$indexing.coverage" NAME="indexing Coverage Results" MODIFIED="1645147519478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$multithreading_demo.coverage" NAME="multithreading_demo Coverage Results" MODIFIED="1665442083901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$for_looping.coverage" NAME="for_looping Coverage Results" MODIFIED="1637087310970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$sum_even_nums.coverage" NAME="sum_even_nums Coverage Results" MODIFIED="1631718935674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$multi_processing2.coverage" NAME="multi_processing2 Coverage Results" MODIFIED="1665441836069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1639672747292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
     <SUITE FILE_PATH="coverage/exercises$dunder_methods.coverage" NAME="dunder_methods Coverage Results" MODIFIED="1621975761549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$enumarate.coverage" NAME="enumarate Coverage Results" MODIFIED="1634571001523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -508,8 +545,8 @@
     <SUITE FILE_PATH="coverage/exercises$pattern_print.coverage" NAME="pattern print Coverage Results" MODIFIED="1631485148054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$temp_crap.coverage" NAME="temp_crap Coverage Results" MODIFIED="1654302891952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$multiprocessing.coverage" NAME="multiprocessing Coverage Results" MODIFIED="1631467744286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exercises2$decorators3.coverage" NAME="decorators3 Coverage Results" MODIFIED="1654123464919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$task3_diff.coverage" NAME="task3_diff Coverage Results" MODIFIED="1639768639288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codility_epam" />
+    <SUITE FILE_PATH="coverage/exercises2$decorators3.coverage" NAME="decorators3 Coverage Results" MODIFIED="1665420863428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$boto3_practice.coverage" NAME="boto3_practice Coverage Results" MODIFIED="1649070627686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$missin_nums.coverage" NAME="missin_nums Coverage Results" MODIFIED="1637259491313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises2$diff_abs.coverage" NAME="diff_abs Coverage Results" MODIFIED="1638546018438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -528,6 +565,7 @@
     <SUITE FILE_PATH="coverage/exercises2$lambda.coverage" NAME="lambda Coverage Results" MODIFIED="1637084097816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$partial_3.coverage" NAME="partial_3 Coverage Results" MODIFIED="1660656043978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/functools_practice" />
     <SUITE FILE_PATH="coverage/exercises$map.coverage" NAME="map Coverage Results" MODIFIED="1621980013800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$namespaces.coverage" NAME="namespaces Coverage Results" MODIFIED="1665959014745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mastering_python/ch3" />
     <SUITE FILE_PATH="coverage/exercises$filter.coverage" NAME="filter Coverage Results" MODIFIED="1621980221211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$functions3.coverage" NAME="functions3 Coverage Results" MODIFIED="1637285106691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$big_o_examples.coverage" NAME="big_o_examples Coverage Results" MODIFIED="1637444040979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BigO" />
@@ -545,11 +583,13 @@
     <SUITE FILE_PATH="coverage/exercises2$to_romans2.coverage" NAME="to_romans2 Coverage Results" MODIFIED="1639340684670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$angela_list_challenge.coverage" NAME="angela_list_challenge Coverage Results" MODIFIED="1634655151440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$print_calendar.coverage" NAME="print_calendar Coverage Results" MODIFIED="1647795014831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$multi_threading2.coverage" NAME="multi_threading2 Coverage Results" MODIFIED="1665441875410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$nothing.coverage" NAME="nothing Coverage Results" MODIFIED="1660700019045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stuff" />
     <SUITE FILE_PATH="coverage/exercises2$sets.coverage" NAME="sets Coverage Results" MODIFIED="1654114245425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$to_romans.coverage" NAME="to_romans Coverage Results" MODIFIED="1636052269455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$find_n_in_list.coverage" NAME="find_n_in_list Coverage Results" MODIFIED="1637436328656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/challenges" />
     <SUITE FILE_PATH="coverage/exercises2$multilevel_inheritance.coverage" NAME="multilevel_inheritance Coverage Results" MODIFIED="1654127643322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$mro_method_resolution_order4.coverage" NAME="mro_method_resolution_order4 Coverage Results" MODIFIED="1665333772221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$draw_pie_chart.coverage" NAME="draw_pie_chart Coverage Results" MODIFIED="1640917179273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$composition2.coverage" NAME="composition2 Coverage Results" MODIFIED="1637080396069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$onliners_ch2.coverage" NAME="onliners_ch2 Coverage Results" MODIFIED="1632412773467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

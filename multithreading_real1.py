@@ -8,7 +8,7 @@ import requests
 import time
 
 
-IMG_URLS = [
+IMG_URLS = (
     'https://images.unsplash.com/photo-1516117172878-fd2c41f4a759',
     'https://images.unsplash.com/photo-1532009324734-20a7a5813719',
     'https://images.unsplash.com/photo-1524429656589-6633a470097c',
@@ -24,7 +24,7 @@ IMG_URLS = [
     'https://images.unsplash.com/photo-1516972810927-80185027ca84',
     'https://images.unsplash.com/photo-1550439062-609e1531270e',
     'https://images.unsplash.com/photo-1549692520-acc6669e2f0c'
-]
+)
 
 t1 = time.perf_counter()
 
