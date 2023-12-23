@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/asyncio_usage/example2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncio_usage/example3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/asyncio_usage/example4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hakerrank/itertools_permutations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hakerrank/nested_lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mastering_python/ch3/mypy_variable_checking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas_exercises/writing_to_csv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exercises.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/exercises.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/super_function_classes.py" beforeDir="false" afterPath="$PROJECT_DIR$/super_function_classes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +58,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="1s8qXrMlJnnnCLPBIlr59C0zy1c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -74,15 +75,25 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/julio_briones/Documents/Dev/Python/Core/longer/exercises2&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/juliobriones/Dev/Python/Core/exercises2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="exercises" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="exercises" />
+      </console-settings>
+    </option>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -98,6 +109,7 @@
   <component name="RunManager" selected="Python.nested_lists">
     <configuration name="example2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -120,6 +132,7 @@
     </configuration>
     <configuration name="example3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -142,6 +155,7 @@
     </configuration>
     <configuration name="example4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -164,6 +178,7 @@
     </configuration>
     <configuration name="itertools_permutations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -186,6 +201,7 @@
     </configuration>
     <configuration name="nested_lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exercises" />
+      <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -215,6 +231,13 @@
         <item itemvalue="Python.example2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -384,6 +407,9 @@
       <workItem from="1666127500363" duration="886000" />
       <workItem from="1666817329683" duration="1897000" />
       <workItem from="1666822805127" duration="7675000" />
+      <workItem from="1702986157457" duration="1161000" />
+      <workItem from="1703277789291" duration="53000" />
+      <workItem from="1703325800754" duration="5114000" />
     </task>
     <servers />
   </component>
