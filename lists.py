@@ -82,7 +82,10 @@ print(nombre)
 
 # Agregar un valor a una lista
 
-
+lst1 = [1, 2, 3, 4, 5]
+lst2 = [6, 7, 8, 9, 10]
+ls3 = lst1 + lst2
+print(ls3)
 
 
 
