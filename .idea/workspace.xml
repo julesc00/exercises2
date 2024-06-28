@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8b5a3c5-a110-4482-8728-7363c86f0045" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/code_signal/pre-screen_learning/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_signal/pre-screen_learning/benchmark_set_and_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_signal/pre-screen_learning/hash_sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extract_file_extension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nothing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agile_cheatsheet.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/extract_file_extension.py" beforeDir="false" afterPath="$PROJECT_DIR$/extract_file_extension.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -450,7 +447,17 @@
       <workItem from="1718103013586" duration="6000" />
       <workItem from="1718207953878" duration="1821000" />
       <workItem from="1718301855765" duration="2940000" />
-      <workItem from="1718305407246" duration="2863000" />
+      <workItem from="1718305407246" duration="6004000" />
+      <workItem from="1718331718976" duration="607000" />
+      <workItem from="1718333044108" duration="6000" />
+      <workItem from="1718376125774" duration="4235000" />
+      <workItem from="1718622518741" duration="607000" />
+      <workItem from="1718823015525" duration="220000" />
+      <workItem from="1718823245858" duration="1832000" />
+      <workItem from="1718896129764" duration="1153000" />
+      <workItem from="1718985417594" duration="2605000" />
+      <workItem from="1719329440390" duration="15000" />
+      <workItem from="1719329464635" duration="1820000" />
     </task>
     <servers />
   </component>
@@ -667,7 +674,7 @@
     <SUITE FILE_PATH="coverage/exercises2$mro_method_resolution_order2.coverage" NAME="mro_method_resolution_order2 Coverage Results" MODIFIED="1663939155410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$list_sorted.coverage" NAME="list_sorted Coverage Results" MODIFIED="1635441992979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$destructure_variables.coverage" NAME="destructure_variables Coverage Results" MODIFIED="1637085662521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/exercises2$extract_file_extension.coverage" NAME="extract_file_extension Coverage Results" MODIFIED="1718317908709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/exercises2$extract_file_extension.coverage" NAME="extract_file_extension Coverage Results" MODIFIED="1718985460023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$yield_example.coverage" NAME="yield_example Coverage Results" MODIFIED="1632492477952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises$error_handling2.coverage" NAME="error_handling2 Coverage Results" MODIFIED="1623270943744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/exercises2$f_talking.coverage" NAME="f_talking Coverage Results" MODIFIED="1638557051416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonic_team" />
